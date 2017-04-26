@@ -1,0 +1,26 @@
+error.required.user_nick=사용자이름을 입력해주세요.
+error.required.user_name=이름을 입력해주세요.
+error.required.user_email=이메일을 입력해주세요.
+error.required.user_password=비밀번호를 입력해주세요.
+
+error.required.user_password_check=비밀번호확인을 입력해주세요.
+
+error.required.user_question=질문을 입력해주세요.
+error.required.user_answer=질문의 답을 입력해주세요.
+
+error.required.current_password=현재 비밀번호를 입력해주세요.
+error.required.change_password=변경할 비밀번호를 입력해주세요.
+
+error.input.user=문제가 발생했습니다. 관리자에게 문의해주세요.
+error.login.user=이메일과 비밀번호가 맞지 않습니다.
+error.double.user_nick={0}은 이미 사용중인 사용자이름 입니다.
+error.double.user_email={0}은 이미 가입되어있는 이메일 입니다.
+error.same.user_password=비밀번호와 비밀번호확인이 일치하지 않습니다.
+success.same.user_password=비밀번호와 비밀번호확인이 정확히 일치합니다!
+error.fail.answer=질문의 답이 틀렸습니다.
+error.notfind.user_email=해당 이메일로 가입된 계정이 없습니다.
+error.mypage.my_password=현재비밀번호가 틀립니다.
+error.mypage.change_password=변경할 비밀번호화 비밀번호확인이 일치하지 않습니다.
+error.double.facebook_user=해당 이메일은 페이스북 계정으로 가입되어 있습니다.
+error.login.fb_email=해당 이메일은 페이스북 계정으로 가입된 이메일 입니다.<br/> 페이스북 로그인을 이용해주세요.
+error.mypage.profile_type=프로필 이미지 사진은 jpg, png, gif 파일만 업로드 가능합니다.
